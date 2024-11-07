@@ -23,5 +23,5 @@ I'm a **Full-Stack Software Engineer** with a passion for building interactive w
 - 🥋 Enjoy watching UFC fights.
 
 ## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conor-hamilton) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conor-m-hamilton) 
 [![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://conorhamilton.dev)
