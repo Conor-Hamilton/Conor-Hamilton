@@ -15,7 +15,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building interactive w
 - **Portfolio Website**: [conorhamilton.dev](https://conorhamilton.dev) - Showcases my projects, skills, and journey as a developer.
 
 ## 🌱 Currently Learning
-- Deepening my knowledge in **Python**
+- Now learning **Next.js**
 
 ## ✨ Fun Facts
 - 🎮 Avid gamer and Arsenal fan (I know...).
