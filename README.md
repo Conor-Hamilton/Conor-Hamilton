@@ -1,27 +1,40 @@
 # Hi there 👋, I'm Conor Hamilton!
 
-I'm a **Full-Stack Software Engineer** with a passion for building interactive web applications and software solutions. After completing General Assembly's immersive bootcamp, I've developed solid skills in **JavaScript, TypeScript, React, and Python**, among others.
+I'm a **Full-Stack Software Engineer** specialising in **React, TypeScript, and Python**, with additional experience in **Node.js, Express, and Flask**. I focus on writing clean, maintainable code and building scalable applications to solve real-world problems.
 
-## 🛠️ Technologies I Use
-![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
+
+## 🛠️ Technologies I Work With
+- **Languages**: JavaScript, TypeScript, Python, SQL
+- **Frontend**: React, Redux, HTML, CSS, Tailwind CSS
+- **Backend**: Node.js, Express, Flask, Django
+- **Databases**: PostgreSQL, MongoDB
+- **Deployment**: Netlify, Heroku, Vercel
+- **Tools**: Git, GitHub, CI/CD (GitHub Actions, Netlify)
+- **Other**: REST APIs, Agile Development
+
+---
 
 ## 🔭 Current Projects
-- **Discord Bingo Bot**: Building a custom bot to manage community events and automate review processes.
-- **Portfolio Website**: [conorhamilton.dev](https://conorhamilton.dev) - Showcases my projects, skills, and journey as a developer.
+- **Discord Bot**: A custom bot built with Python and Discord.py to manage community events and automate server tasks.
+- **Portfolio Website**: [conorhamilton.dev](https://conorhamilton.dev) – A showcase of my skills, projects, and journey as a developer.
 
-## 🌱 Currently Learning
-- Now learning **Next.js**
+---
 
-## ✨ Fun Facts
-- 🎮 Avid gamer and Arsenal fan (I know...).
-- 👨‍👩‍👧 Love spending time with my family.
-- 🥋 Enjoy watching UFC fights.
+## 🌱 What I’m Learning
+- **Next.js**: Building server-rendered React applications for improved performance.
+- **Test-Driven Development (TDD)**: Enhancing code reliability and test coverage.
+- **React Native**: Exploring mobile app development to expand my skill set.
 
-## 📫 Get in Touch
+---
+
+## ✨ About Me
+- 🎮 Passionate about gaming and creating software that connects communities.
+- 🥋 Avid UFC fan and Arsenal supporter (yes, I’ve made peace with it).
+- 👨‍👩‍👧 Dedicated to my young family, who inspire and motivate me every day.
+
+---
+
+## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conor-m-hamilton) 
-[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://conorhamilton.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://conorhamilton.dev)
