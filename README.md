@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Conor Hamilton!
 
-I'm a **Full-Stack Software Engineer** specialising in **React, TypeScript, and Python**, with additional experience in **Node.js, Express, and Flask**. I focus on writing clean, maintainable code and building scalable applications to solve real-world problems.
+I'm a **Full-Stack Software Engineer** specialising in **React, TypeScript, and Python**, with additional experience in **Node.js, Express, and Flask**. I focus on writing clean, maintainable code and building scalable applications to solve real problems.
 
 ---
 
 ## 🛠️ Technologies I Work With
 - **Languages**: JavaScript, TypeScript, Python, SQL
-- **Frontend**: React, Redux, HTML, CSS, Tailwind CSS
+- **Frontend**: React, Redux, Tailwind CSS
 - **Backend**: Node.js, Express, Flask, Django
 - **Databases**: PostgreSQL, MongoDB
 - **Deployment**: Netlify, Heroku, Vercel
@@ -31,7 +31,7 @@ I'm a **Full-Stack Software Engineer** specialising in **React, TypeScript, and 
 ## ✨ About Me
 - 🎮 Passionate about gaming and creating software that connects communities.
 - 🥋 Avid UFC fan and Arsenal supporter (yes, I’ve made peace with it).
-- 👨‍👩‍👧 Dedicated to my young family, who inspire and motivate me every day.
+- 👨‍👩‍👧 Love to spend time with my young family, who inspire and motivate me every day.
 
 ---
 
