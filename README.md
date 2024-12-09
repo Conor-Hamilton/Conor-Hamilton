@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Conor Hamilton!
 
-I'm a **Full-Stack Software Engineer** specialising in **React, TypeScript, and Python**, with additional experience in **Node.js, Express, and Flask**. I focus on writing clean, maintainable code and building scalable applications to solve real problems.
+I am a **Full-Stack Software Engineer** specialising in **React, TypeScript, and Python** with additional experience in **Redux, Flask, Express, PostgreSQL, Django, and Node.js.** My approach focuses on writing clean, maintainable code and delivering scalable tailored solutions. 
 
 ---
 
