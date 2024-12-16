@@ -4,7 +4,7 @@ I am a **Full-Stack Software Engineer** specialising in **React, TypeScript, and
 
 ---
 
-## 🛠️ Technologies I Work With
+## Technologies I Work With
 - **Languages**: JavaScript, TypeScript, Python, SQL
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express, Flask, Django
@@ -15,26 +15,26 @@ I am a **Full-Stack Software Engineer** specialising in **React, TypeScript, and
 
 ---
 
-## 🔭 Current Projects
+## Current Projects
 - **Discord Bot**: A custom bot built with Python and Discord.py to manage community events and automate server tasks.
 - **Portfolio Website**: [conorhamilton.dev](https://conorhamilton.dev) – A showcase of my skills, projects, and journey as a developer.
 
 ---
 
-## 🌱 What's my current interests?
+## What's my current interests?
 - **Next.js**: Building server-rendered React applications for improved performance.
 - **Test-Driven Development (TDD)**: Enhancing code reliability and test coverage.
 - **React Native**: Exploring mobile app development to expand my skill set.
 
 ---
 
-## ✨ About Me
-- 🎮 Passionate about gaming and creating software that connects communities.
-- 🥋 Avid UFC fan and Arsenal supporter (yes, I’ve made peace with it).
-- 👨‍👩‍👧 Love to spend time with my young family, who inspire and motivate me every day.
+## About Me
+- Passionate about gaming and creating software that connects communities.
+- Avid UFC fan and Arsenal supporter.
+- Love to spend time with my young family, who inspire and motivate me every day.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conor-m-hamilton) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://conorhamilton.dev)
